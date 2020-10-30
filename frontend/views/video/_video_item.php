@@ -17,7 +17,7 @@ use yii\helpers\Url;
     <div class="card-bod p-2">
         <h6 class="card-title m-0"><?php echo $model->title ?></h6>
         <p class="text-muted card-text m-0">
-            <?php echo \common\helpers\Html::channelLink($model->createdBy) ?>
+
         </p>
         <p class="text-muted card-text m-0">
             <?php echo $model->getViews()->count() ?> views .
