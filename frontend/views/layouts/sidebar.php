@@ -15,7 +15,7 @@
         ],
         [
             'label' => 'History',
-            'url' => ['/video/History']
+            'url' => ['/video/history']
         ]
     ]
 ]) ?>
